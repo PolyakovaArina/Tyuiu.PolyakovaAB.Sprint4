@@ -25,7 +25,7 @@ namespace Tyuiu.PolyakovaAB.Sprint4.Task0.V8
             Console.WriteLine("* Массив                                                                  *");
             for (int i = 0; i < a.Length; i++)
             {
-# Console.WriteLine(a[i]);
+                Console.WriteLine(a[i]);
             }
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
