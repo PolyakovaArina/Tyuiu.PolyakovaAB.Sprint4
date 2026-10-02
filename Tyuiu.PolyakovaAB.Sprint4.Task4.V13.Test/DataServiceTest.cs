@@ -9,7 +9,7 @@ namespace Tyuiu.PolyakovaAB.Sprint4.Task4.V13.Test
         {
             DataService ds = new DataService();
             int[,] a = { { 1, 2, 3 }, { 3, 6, 6 } };
-            Assert.AreEqual(3, ds.Calculate(a));
+            Assert.AreEqual(14, ds.Calculate(a));
         }
     }
 }

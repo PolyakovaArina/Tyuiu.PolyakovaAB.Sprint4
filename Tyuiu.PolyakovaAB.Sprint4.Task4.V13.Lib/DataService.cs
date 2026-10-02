@@ -15,7 +15,7 @@ namespace Tyuiu.PolyakovaAB.Sprint4.Task4.V13.Lib
                 {
                     if (array[i, j] % 2 == 0)
                     {
-                        p += 1;
+                        p += array[i,j];
                     }
                 }
             }
